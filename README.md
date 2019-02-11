@@ -15,7 +15,7 @@ the expected output is an orderly ocr'd pdf.
 
 
 
-##usage
+## usage
 1. download the code
 2. prepare the scanner & mount the phones
 3. fill out the settings section for the chosen script and check/install dependencies
