@@ -8,8 +8,8 @@ import subprocess
 #SETTINGS
 #directory of pdf files
 #pages_dir default (per scantailor) = /out
-pages_dir = "/home/jurij/Documents/univerzal/hardware/diy_scanner/ptroject4/out/" 
-outname = "wark_molecular_2015"
+pages_dir = "" 
+outname = ""
 
 
 #run bash script
