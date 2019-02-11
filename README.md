@@ -1,10 +1,14 @@
 # scanabok
 a portable book scanner with smartphones in place of expensive cameras
 
+![picture of the scanner](https://github.com/uree/scanabok/blob/master/samples/scn-stup.jpg)
+
+
+
 works with android only
 
 this repo contains materials connected to a prototype of a portable/foldable book/document scanner
-the images provide pointers on how to build one
+[the images](https://github.com/uree/scanabok/tree/master/samples) provide pointers on how to build one
 
 the code provides two ways of controlling mounted smartphones from the computer (terminal)
 - one for usb connected devices
